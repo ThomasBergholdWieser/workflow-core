@@ -22,28 +22,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkflowCore.WebAPI", "src\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkflowCore.LockProviders.SqlServer", "src\providers\WorkflowCore.LockProviders.SqlServer\WorkflowCore.LockProviders.SqlServer.csproj", "{AAE2E9F9-37EF-4AE1-A200-D37417C9040C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReleaseNotes", "ReleaseNotes", "{38ECB00C-3F3B-4442-8408-ACE3B37FFAA8}"
-	ProjectSection(SolutionItems) = preProject
-		ReleaseNotes\1.2.8.md = ReleaseNotes\1.2.8.md
-		ReleaseNotes\1.2.9.md = ReleaseNotes\1.2.9.md
-		ReleaseNotes\1.3.0.md = ReleaseNotes\1.3.0.md
-		ReleaseNotes\1.3.2.md = ReleaseNotes\1.3.2.md
-		ReleaseNotes\1.3.3.md = ReleaseNotes\1.3.3.md
-		ReleaseNotes\1.4.0.md = ReleaseNotes\1.4.0.md
-		ReleaseNotes\1.6.0.md = ReleaseNotes\1.6.0.md
-		ReleaseNotes\1.6.6.md = ReleaseNotes\1.6.6.md
-		ReleaseNotes\1.6.8.md = ReleaseNotes\1.6.8.md
-		ReleaseNotes\1.6.9.md = ReleaseNotes\1.6.9.md
-		ReleaseNotes\1.7.0.md = ReleaseNotes\1.7.0.md
-		ReleaseNotes\1.8.0.md = ReleaseNotes\1.8.0.md
-		ReleaseNotes\1.8.1.md = ReleaseNotes\1.8.1.md
-		ReleaseNotes\1.9.0.md = ReleaseNotes\1.9.0.md
-		ReleaseNotes\1.9.2.md = ReleaseNotes\1.9.2.md
-		ReleaseNotes\1.9.3.md = ReleaseNotes\1.9.3.md
-		ReleaseNotes\2.0.0.md = ReleaseNotes\2.0.0.md
-		ReleaseNotes\2.1.0.md = ReleaseNotes\2.1.0.md
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
